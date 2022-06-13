@@ -1,9 +1,9 @@
 # Data Science Portfolio - Mavis Chan
 
-- **Email**: [mavischan@u.nus.edu]
+- **Email**: [mavischan@u.nus.edu](mavischan@u.nus.edu)
 - **LinkedIn**: [Mavis Chan](https://www.linkedin.com/in/mavis-chan-yan-ni/)
 
 ## Projects
-[Mall Customer Segmentation](https://mavis-cyn.github.io/data-portfolio/Mall%20Customer%20Segmentation.html)
+<img align="left" width="250" height="150" src="https://github.com/mavis-cyn/data-portfolio/blob/1b2db4e23af74a69d4aad3022d56785caf3d4974/Mall%20Customer%20Segmentation/ResultImage.png"> **[Mall Customer Segmentation](https://mavis-cyn.github.io/data-portfolio/Mall%20Customer%20Segmentation.html)**
 
 Using K-means clustering to identify customer profiles for more targetted promotion efforts.
