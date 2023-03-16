@@ -1,6 +1,6 @@
 # Data Science Portfolio - Mavis Chan
 
-- **Email**: [mavischan@u.nus.edu](mavischan@u.nus.edu)
+- **Email**: [mavischanyn@gmail.com](mavischanyn@gmail.com)
 - **LinkedIn**: [Mavis Chan](https://www.linkedin.com/in/mavis-chan-yan-ni/)
 
 ## Projects
